@@ -18,7 +18,7 @@ Candy.Achievements.prototype = {
 		this.game.add.text(40, 180, "para sumar apoyo de otros candidatos", { font: "28px ComicBook", fill: "#FFFFFF" });
 
 		this.game.add.text(30, 250, "50: Voto Unico (vale 1 voto)", { font: "28px ComicBook", fill: "#FFFFFF" });
-		this.game.add.text(30, 300, "100: Bea-Sanchez (vale 2 votos)", { font: "28px ComicBook", fill: "#FFFFFF" });
+		this.game.add.text(30, 300, "100: Guillier (vale 2 votos)", { font: "28px ComicBook", fill: "#FFFFFF" });
 		this.game.add.text(30, 350, "200: Ominami (vale 3 votos)", { font: "28px ComicBook", fill: "#FFFFFF" });
 		this.game.add.text(30, 400, "500: Navarro (vale 4 votos)", { font: "28px ComicBook", fill: "#FFFFFF" });
 		this.game.add.text(30, 450, "1000: Artes (vale 5 votos)", { font: "28px ComicBook", fill: "#FFFFFF" });
